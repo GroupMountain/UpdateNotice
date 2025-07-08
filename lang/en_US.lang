@@ -1,0 +1,6 @@
+form.title=Update Notice
+form.content=You are currently using an older client version for the game!Current server version %server_version%Your client version %player_client_version%To ensure a complete gaming experience, please update your client to version %server_version% or higher.
+form.confirm=I understand
+notice.message=[Notice] You are currently using an older client version for the game!Current server version %server_version%Your client version %player_client_version%To ensure a complete gaming experience, please update your client to version %server_version% or higher.
+toast.title=You are currently using an older client version for the game!
+toast.message=Please update your client to version %server_version% or higher to ensure a good gaming experience!
