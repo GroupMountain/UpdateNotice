@@ -55,7 +55,7 @@ bool UpdateNotice::enable() {
                 pl.sendMessage(gmlib::PlaceholderAPI::translate("notice.message"_tr(), pl));
             }
             if (mConfig->send_toast) {
-                pl.sendToast("tosat.title"_tr(), gmlib::PlaceholderAPI::translate("toast.message"_tr(), pl));
+                pl.sendToast("toast.title"_tr(), gmlib::PlaceholderAPI::translate("toast.message"_tr(), pl));
             }
         }
     });
